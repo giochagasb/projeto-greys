@@ -1,0 +1,198 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+	background-color: rgb(235 251 255);
+}
+.body{
+	margin-top: 50px;
+	margin-right: 200px;
+	margin-left: 200px;
+	background-color: rgba(123, 191, 192, 0.3);
+	border-left-style: dashed;
+	border-right-style: dashed;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-color: rgb(123 191 192);
+	border-width: thick;
+}
+#header img .logo{
+	display: block;
+	position: absolute;
+	left: 20px;
+	top: 25px;
+ }
+#header {
+ 	background-color: rgb(5 5 106);
+}
+nav li{
+	float: left;
+	display: inline-block;
+	margin-right: 20px;
+	margin-left: 20px;
+	text-decoration: none;
+}
+.center a {
+	text-decoration: none;
+	color:rgb(65 105 225);
+}
+.center{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	background-color: rgb(5 5 106);
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+#perso h1{
+	text-align: center;
+	color: rgb(0 0 128);
+}
+#ellen h5{
+	position: relative;
+	left: 150px;
+	top: 20px;
+	right: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+	font-size: 20px;
+	color: rgb(65 105 225);
+	width: 400px;
+}
+#ellen p {
+	font-size: 15px;
+	position: relative;
+	left: 5px;
+	top: 25px;
+	bottom: 20px;
+	text-align: left;
+	width: 708,67;
+	margin-right: 20px;
+	margin-bottom: 40px;
+}
+#ellen img{
+	float: left;
+}
+#cristina h5{
+	position: relative;
+	left: 150px;
+	top: 20px;
+	right: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+	font-size: 20px;
+	color: rgb(65 105 225);
+	width: 400px;
+}
+#cristina p {
+	font-size: 15px;
+	position: relative;
+	left: 5px;
+	top: 25px;
+	bottom: 20px;
+	text-align: left;
+	width: 708,67;
+	margin-right: 15px;
+	margin-bottom: 50px;
+
+}
+#cristina img{
+	float: left;
+}
+#alex h5{
+	position: relative;
+	left: 150px;
+	top: 20px;
+	right: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+	font-size: 20px;
+	color: rgb(65 105 225);
+	width: 500px;
+}
+#alex p {
+	font-size: 15px;
+	position: relative;
+	left: 5px;
+	top: 25px;
+	bottom: 20px;
+	text-align: left;
+	width: 708,67;
+	margin-right: 15px;
+	margin-bottom: 70px;
+}
+#alex img{
+	float: left;
+}
+#izzie h5{
+	position: relative;
+	left: 150px;
+	top: 20px;
+	right: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+	font-size: 20px;
+	color: rgb(65 105 225);
+	width: 400px;
+}
+#izzie p {
+	font-size: 14px;
+	position: relative;
+	left: 5px;
+	top: 25px;
+	bottom: 20px;
+	text-align: left;
+	width: 708,67;
+	margin-right: 15px;
+	margin-bottom: 60px;
+}
+#izzie img{
+	float: left;
+}
+#george h5{
+	position: relative;
+	left: 150px;
+	top: 20px;
+	right: 0px;
+	margin-right: 0px;
+	padding-right: 0px;
+	font-size: 20px;
+	color: rgb(65 105 225);
+	width: 400px;
+}
+#george p {
+	font-size: 15px;
+	position: relative;
+	left: 5px;
+	top: 25px;
+	bottom: 20px;
+	text-align: left;
+	width: 708,67;
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+#george img{
+	float: left;
+}
+.base img{
+	height: 10px;
+	width: 10px;
+}
+span {
+	font-size: 10px;
+}
+.footer{
+	background-color: #006699;
+	border-top: 5px;
+	padding-top: 3%;
+	padding-bottom: 3%;
+	border-top-style: double;
+	border-color: #d1d1e0;
+}
+.footer p{
+	text-align: left;
+	margin-right: 20%;
+	margin-left: 20%;
+}
